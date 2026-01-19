@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @3dnsfw
 - 👀 I’m interested in NSFW tech related stuff
 - 🌱 I’m currently learning Bun
-- 💞️ I’m looking to collaborate on [XBVR](https://github.com/xbapps/xbvr)/[Stash](https://github.com/stashapp/stash)/[Kemono-Scraper](https://github.com/3dnsfw/kemono-scraper)
+- 💞️ I’m looking to collaborate on [Kemono-Scraper](https://github.com/3dnsfw/kemono-scraper)
 - 📫 How to reach me: GitHub issues/discussions on my repositories
 
 ## Donate
